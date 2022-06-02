@@ -1,0 +1,21 @@
+08:48:50 **** Incremental Build of configuration Debug for project Aufgabenteil_C ****
+make -j4 all 
+arm-none-eabi-size   Aufgabenteil_C.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20060	     20	   1860	  21940	   55b4	Aufgabenteil_C.elf
+Finished building: default.size.stdout
+ 
+08:48:53 **** Incremental Build of configuration Debug for project Aufgabenteil_C ****
+make -j4 all 
+arm-none-eabi-size   Aufgabenteil_C.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20060	     20	   1860	  21940	   55b4	Aufgabenteil_C.elf
+Finished building: default.size.stdout
+ 
+08:49:19 **** Incremental Build of configuration Debug for project Aufgabenteil_D ****
+make -j4 all 
+arm-none-eabi-size   Aufgabenteil_D.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8284	     20	   1580	   9884	   269c	Aufgabenteil_D.elf
+Finished building: default.size.stdout
+ 

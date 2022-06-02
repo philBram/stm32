@@ -1,0 +1,10 @@
+08:49:19 **** Incremental Build of configuration Debug for project Aufgabenteil_D ****
+make -j4 all 
+arm-none-eabi-size   Aufgabenteil_D.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8284	     20	   1580	   9884	   269c	Aufgabenteil_D.elf
+Finished building: default.size.stdout
+ 
+
+08:49:20 Build Finished. 0 errors, 0 warnings. (took 951ms)
+
